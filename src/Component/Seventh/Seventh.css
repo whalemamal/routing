@@ -1,0 +1,27 @@
+.seventh{
+    margin-top: 60px;
+    background-color: gainsboro;
+    width: 1300px;
+    height: 1100;
+    margin-left: 120px;
+    border-radius: 30px;
+}
+.seventh1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 30px;
+}
+.seventh2{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.seventh3{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.spa{
+    margin-left: 15px;
+}

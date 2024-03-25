@@ -1,0 +1,40 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+.third{
+    position: relative;
+    margin-top: 60px;
+    width: 500px;
+}
+.third1{
+    margin-left: 100px;
+    position: absolute;
+    margin-bottom: 6rem;
+    margin-top: 80px;
+}
+.th{
+    font-size: 60px;
+}
+.the{
+    
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px; 
+    text-align: center;
+    padding-top: 1rem;
+    
+}
+.third2{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 300px;
+}
+.third3{
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 100px;
+}
+

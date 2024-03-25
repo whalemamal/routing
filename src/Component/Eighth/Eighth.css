@@ -1,0 +1,21 @@
+.eighth{
+    margin-top: 100px;
+}
+.eighth1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    align-items: center;
+}
+.eighth2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.eig{
+    font-size: 40px;
+    margin-left: 80px;
+}
+.eig1{
+    margin-right: 80px;
+}

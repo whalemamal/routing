@@ -1,0 +1,41 @@
+.fifth{
+    margin-top: 50px;
+}
+.fifth1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    /* font-weight: bolder; */
+}
+.fifth2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.fifth3{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    margin-top: 40px;
+}
+.fifth3 button{
+    font-size: 40px;
+    height: 70px;
+    width: 300px;
+    border-radius: 30px;
+    border: #444;
+}
+.del{
+    display: flex;
+}
+.del1{
+    margin-left: 10px;
+}
+.del2{
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: rgb(243, 177, 177);
+    color: red;
+    border-radius: 30px;
+}
