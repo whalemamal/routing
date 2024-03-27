@@ -1,0 +1,141 @@
+.pfirst{
+    margin-top: 50px;
+}
+.pf1{
+    width: 1300px;
+    margin-left: 120px;
+}
+.pf{
+    display: flex;
+    margin-left: 78px;
+    margin-top: 50px;
+}
+.pf2{
+    display: flex;
+    align-items: center;
+}
+.pf ul{
+    list-style-type: none;
+    font-size: 22px;
+}
+.pf22{
+    margin-left: 10px;
+}
+.pf3{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+.pf31{
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+}
+.pf31 ul{
+    list-style-type: none;
+}
+.pf331{
+    line-height: 70px;
+}
+.pf332{
+    margin-left: 50px;
+}
+.pf32{
+    margin-left: 50px;
+}
+.pf321{
+    font-size: 52px;
+    font-weight: bolder;
+    margin-top: 0%;
+}
+.pf322{
+    display: flex;
+    font-size: 30px;
+    margin-top: -15px;
+    align-items: center;
+}
+.pf323{
+    margin-left: 30px;
+    color: #a1a1a1;
+}
+.pf324{
+    margin-left: 30px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    color: red;
+    background-color: rgb(247, 200, 200);
+    border-radius: 30px;
+}
+.pf325{
+    color: #a1a1a1;
+    margin-top: -15px;
+}
+.pf326{
+    margin-top: -15px;
+}
+.pf361{
+    display: flex;
+    margin-top: -15px;
+}
+.pf362{
+    height: 50px;
+    width: 100px;
+    background-color: #a1a1a1;
+    color: #3c3b3b;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 10px;
+}
+.pf363{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 10px;
+}
+.pf364{
+    height: 50px;
+    width: 100px;
+    background-color: #a1a1a1;
+    color: #3c3b3b;
+    border-radius: 30px;
+    text-align: center;
+}
+.pf37{
+    display: flex;
+}
+.pf371{
+    background-color:  #a1a1a1;
+    height: 50px;
+    width: 200px;
+    border-radius: 30px;
+    text-align: center;
+}
+.pf372{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 400px;
+    border-radius: 30px;
+    margin-left: 10px;
+    text-align: center;
+}
+.pf38{
+    margin-top: 50px;
+}
+.pf381{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pf382{
+    width: 1330px;
+    margin-left: 120px;
+}
+.pf383{
+    color:  #a1a1a1;
+}

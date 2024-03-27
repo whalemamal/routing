@@ -1,0 +1,50 @@
+.ps{
+    margin-top: 50px;
+}
+.ps1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ps11{
+    margin-left: 110px;
+}
+.ps12{
+    margin-right: 70px;
+}
+.ps2{
+    display: flex;
+    margin-left: 130px;
+}
+.ps21{
+    height: 300px;
+    width: 600px;
+    border:  solid #f3efef;
+    border-radius: 30px;
+    text-align:  start;
+    margin-top: 50px;
+}
+.ps22{
+    display: flex;
+    align-items: center;
+}
+.ps23{
+    margin-left: 330px;
+
+}
+.ps24{
+    display: flex;
+    align-items: center;
+}
+.ps3{
+    margin-left: 50px;
+}
+.ps4{
+    width: 250px;
+    height: 70px;
+    border-radius: 30px;
+    border: solid  #f3efef ;
+    margin-top: 70px;
+    margin-left: 620px;
+    text-align: center;
+}

@@ -1,28 +1,38 @@
 import "./Hero.css"
 import frame from "./Frame.png"
+import { Link } from "react-router-dom"
 
 
 function Hero() {
     return(
         <div className="first">
-            <div>
-                <h1>
-                    SHOP.CO
-                </h1>
+            <div className="first1">
+                <Link>Shop.co</Link>
             </div>
             <div className="second222">
+
                 <div className="second">
+
                     <div className="second1">
                         <button className="second2">Shop <i className="whale"></i></button>
                         <div className="second3">
-                            <a href="#">link1</a>
+                            <Link> Link1 </Link>
                         </div>
                     </div>
-                    <a href="#">On Sale</a>
-                    <a href="#">New Arrivals</a>
-                    <a href="#">Brands</a>
+                    <div className="second4">
+                        <ul>
+                            <li className="ss"><Link>On Sale</Link></li>
+                            <li className="ss"><Link> New Arrivals</Link></li>
+                            <li className="ss"><Link> Brands</Link></li>
+                        </ul>
+                        {/* <Link>On Sale</Link>
+                        <Link>New Arrivals</Link>
+                        <Link>Brands</Link> */}
+                    </div>
+                  
                 </div>
             </div>
+
             <div className="third">
                 <input type="text" placeholder="Search..." />
             </div>

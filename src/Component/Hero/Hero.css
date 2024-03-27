@@ -4,6 +4,10 @@
     justify-content: center;
     margin-top: 20px;
 }
+.first1, Link{
+    text-decoration: none;
+    font-size: 22px;
+}
 .second222{
     margin-left: 30px;
     
@@ -12,17 +16,19 @@
     overflow: hidden;
 }
 
-.second a{
+.second, Link{
     /* float: right; */
     font-size: 22px;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    
 }
 .second1{
     float: left;
     overflow: hidden;
+    margin-top: 15px;
 }
 .second1 .second2{
     font-size: 22px;  
@@ -42,13 +48,22 @@
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
-.second3 a{
+.second3, Link{
     float: none;
     color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
+}
+.second4, ul, link{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    list-style-type: none;
+}
+.ss{
+    margin-left: 10px;
 }
 .second:hover .second3{
     display: block;
